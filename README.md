@@ -1,4 +1,4 @@
-# Weather App
+# Weather Dashboard
 
 A modern, responsive weather application built with **React** and **Vite** that provides real-time weather information for any city worldwide.
 
